@@ -32,5 +32,5 @@ function switchOnCharmFromTip(tip) {
       answer = "Bye.";
   }
 
-  answer;
+  return answer;
 };
