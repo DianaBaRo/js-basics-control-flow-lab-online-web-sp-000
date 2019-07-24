@@ -1,15 +1,16 @@
 // Write your code in this file!
 function scuberGreetingForFeet(someNumber) {
-  let greeting;
+  let greeting
   if (someNumber <= 400 ) {
-    greeting = ""
+    greeting = "This one is on me!"
   }
-}
+  return greeting
+};
 
 function ternaryCheckCity(someCity) {
 
-}
+};
 
 function switchOnCharmFromTip(tip) {
 
-}
+};
